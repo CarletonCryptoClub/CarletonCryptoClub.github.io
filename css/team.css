@@ -36,6 +36,15 @@ License URL: https://creativecommons.org/licenses/by/4.0/
 	padding-left: 10px;
 }
 
+#team-p1 .team-p1-cont h4,
+.team-p2 .team-p2-cont h4{ 
+	padding-top: 20px;
+	line-height: 25px;
+	color:#777;
+	padding-left: 10px;
+	font-size: 1rem; 
+}
+
 #team-p1 .team-p1-cont ul,
 .team-p2 .team-p2-cont ul{
 	float: right;
